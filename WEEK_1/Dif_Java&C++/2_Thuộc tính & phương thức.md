@@ -1,3 +1,4 @@
+# THUỘC TÍNH VÀ PHƯƠNG THỨC TRONG JAVA SO VỚI C++
 ## 1. Constructor
 ```C++
 class A {
