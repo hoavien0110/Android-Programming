@@ -70,4 +70,4 @@ Trong Java vẫn thực hiện phương thức khởi tạo của lớp cha trư
 ## 3. Quá tải toán tử
 - Java không hỗ trợ quá tải toán tử
 - Đối tượng trong Java được truyền qua tham chiếu, không phải tham trị
-$a^2$
+
